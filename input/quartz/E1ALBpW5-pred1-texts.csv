@@ -1,0 +1,10 @@
+id,x,y,width,height,text,type
+0,185.71484375,486.125,150.078125,23.0,In the labor force,x-axis-label
+1,562.46484375,486.125,230.5625,23.0,Family's sole breadwinner,x-axis-label
+2,3.01171875,448.53125,11.109375,23.0,0,y-axis-label
+3,3.01171875,345.5,22.234375,23.0,20,y-axis-label
+4,3.01171875,242.46875,22.234375,23.0,40,y-axis-label
+5,3.01171875,139.4375,22.234375,23.0,60,y-axis-label
+6,3.01171875,36.40625,40.015625,23.0,80%,y-axis-label
+7,21.0,5.0,118.921875,23.0,Black women,legend-label
+8,170.8125,5.0,92.25,23.0,All women,legend-label
