@@ -1,0 +1,15 @@
+id,cnt,center,bar_class,fill,nearest_x_label,nearest_y_label,text,type
+0,"[[[236  45]]
+
+ [[236  60]]
+
+ [[880  60]]
+
+ [[880  45]]]","(558, 52)",-,-,-,Board seats nominated,-,bar
+1,"[[[236  77]]
+
+ [[236  92]]
+
+ [[640  92]]
+
+ [[640  77]]]","(438, 84)",-,-,-,Board seats gained*,-,bar

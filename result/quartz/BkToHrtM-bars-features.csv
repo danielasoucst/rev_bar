@@ -1,0 +1,22 @@
+id,cnt,center,bar_class,fill,nearest_x_label,nearest_y_label,text,type
+0,"[[[185  45]]
+
+ [[185  60]]
+
+ [[847  60]]
+
+ [[847  45]]]","(516, 52)",-,-,-,Kind of important,-,bar
+1,"[[[185  77]]
+
+ [[185  92]]
+
+ [[553  92]]
+
+ [[553  77]]]","(369, 84)",-,-,-,Very important,-,bar
+2,"[[[185 109]]
+
+ [[185 124]]
+
+ [[288 124]]
+
+ [[288 109]]]","(236, 116)",-,-,-,Not important,-,bar

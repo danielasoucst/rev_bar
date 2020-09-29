@@ -1,0 +1,15 @@
+id,cnt,center,bar_class,fill,nearest_x_label,nearest_y_label,text,type
+0,"[[[115 109]]
+
+ [[115 124]]
+
+ [[121 124]]
+
+ [[121 109]]]","(118, 116)",-,-,-,Unicorn,-,bar
+1,"[[[115 141]]
+
+ [[115 156]]
+
+ [[189 156]]
+
+ [[189 141]]]","(152, 148)",-,-,-,Decaoorn,-,bar
