@@ -9,4 +9,21 @@ Este projeto apresenta uma metodologia para recuperação automática de element
 python main.py
 ```
 
+<p align="center">
+
+<br>
+
+![](EkJWuovAl.png)
+
+</p>
+
+<p align="center">
+
+<br>
+
+![](EkjhKrQFg.png)
+
+</p>
+
+
 
